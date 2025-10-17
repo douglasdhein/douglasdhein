@@ -1,7 +1,5 @@
 # Douglas Dhein
 
-Full Stack Developer
-
 [![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)
 
 Iniciei minha trajetória na área de tecnologia em 2012, ao ingressar no curso Técnico em Informática pelo [Instituto Ivoti](https://www.institutoivoti.com.br/), momento em que despertou meu interesse pelo desenvolvimento de software/web e pelas possibilidades do mundo digital.
