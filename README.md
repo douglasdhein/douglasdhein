@@ -11,4 +11,4 @@ Posteriormente, participei do Programa Starter da [Growdev](https://growdev.com.
 * Modelagem e manipulação de bancos de dados relacionais (SQL);
 * Desenvolvimento de soft skills, com ênfase em comunicação, trabalho em equipe e resolução de problemas.
 
-Atualmente, busco aprimorar continuamente minhas competências técnicas e contribuir para projetos que envolvam inovação, qualidade e impacto real no ambiente digital.
+Atualmente, venho aprimorando continuamente minhas competências em React, expandindo minha atuação com Next.js e desenvolvimento em C# com foco em .NET, com o objetivo de participar de projetos inovadores e de alto impacto.
