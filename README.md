@@ -12,3 +12,7 @@ Posteriormente, participei do Programa Starter da [Growdev](https://growdev.com.
 * Desenvolvimento de soft skills, com ênfase em comunicação, trabalho em equipe e resolução de problemas.
 
 Atualmente, venho aprimorando continuamente minhas competências em React, expandindo minha atuação com Next.js e desenvolvimento em C# com foco em .NET, com o objetivo de participar de projetos inovadores e de alto impacto.
+
+ #### 🛠️ Ferramentas e Tecnologias
+
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
