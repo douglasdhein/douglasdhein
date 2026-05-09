@@ -13,6 +13,6 @@ Posteriormente, participei do Programa Starter da [Growdev](https://growdev.com.
 
 Atualmente, venho aprimorando continuamente minhas competências em React, expandindo minha atuação com Next.js e desenvolvimento em C# com foco em .NET, com o objetivo de participar de projetos inovadores e de alto impacto.
 
- #### 🛠️ Ferramentas e Tecnologias
+ ### 🛠️ Ferramentas e Tecnologias
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
