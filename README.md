@@ -15,4 +15,5 @@ Atualmente, venho aprimorando continuamente minhas competências em React, expan
 
  ### 🛠️ Ferramentas e Tecnologias
 
-![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
