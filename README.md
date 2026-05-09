@@ -1,6 +1,6 @@
 # Douglas Dhein
 
-[![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-white?style=flat-square&logo=Gmail&logoColor=black&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)
 
 Iniciei minha trajetória na área de tecnologia em 2012, ao ingressar no curso Técnico em Informática pelo [Instituto Ivoti](https://www.institutoivoti.com.br/), momento em que despertou meu interesse pelo desenvolvimento de software/web e pelas possibilidades do mundo digital.
 
@@ -15,4 +15,4 @@ Atualmente, venho aprimorando continuamente minhas competências em React, expan
 
  ### 🛠️ Ferramentas e Tecnologias
 
-![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black)
