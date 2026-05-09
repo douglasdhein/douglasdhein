@@ -19,6 +19,10 @@ Atualmente, venho aprimorando continuamente minhas competências em React, expan
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white)
 
 
  ## Entre em Contato
