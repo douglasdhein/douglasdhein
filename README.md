@@ -4,9 +4,9 @@ Desenvolvo aplicações web modernas, unindo código organizado, interfaces resp
 
 ## Stack Técnica
 
-**Linguagens:** HTML5, CSS3, JavaScript, TypeScript, C#
-**Front-end:** React, Next.js, Tailwind 
-**Back-end:** Node.js, Express, .NET
+**Linguagens:** HTML5, CSS3, JavaScript, TypeScript, C# <br>
+**Front-end:** React, Next.js, Tailwind <br>
+**Back-end:** Node.js, Express, .NET <br>
 **Bando de dados:** MongoDB
 
  ## Entre em Contato
