@@ -1,6 +1,6 @@
 # Douglas Dhein
 
-Desenvolvo aplicações web modernas, unindo código organizado, interfaces responsivas, APIs e bancos de dados para criar soluções funcionais e bem estruturadas.
+Desenvolvo aplicações web modernas, combinando código organizado, interfaces responsivas, APIs e bancos de dados para criar soluções funcionais e bem estruturadas.
 
 ## Stack Técnica
 
