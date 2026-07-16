@@ -1,14 +1,15 @@
 # Douglas Dhein
 
-Desenvolvo aplicações web modernas, combinando código organizado, interfaces responsivas, APIs e bancos de dados para criar soluções funcionais e bem estruturadas.
+I build modern web applications, combining well-organized code, responsive interfaces, APIs, and databases to create functional, well-structured solutions.
 
-## Stack Técnica
+## Tech stack
 
-**Base web e linguagens:** HTML5, CSS3, JavaScript, TypeScript, C# <br>
+**Web & languages:** HTML5, CSS3, JavaScript, TypeScript, C# <br>
 **Front-end:** React, Next.js, Tailwind CSS <br>
 **Back-end:** Node.js, Express, .NET <br>
-**Bando de dados:** MongoDB
+**Database:** MongoDB <br>
+**Version Control:** Git, GitHub
 
- ## Entre em Contato
+ ## Get in touch
 
 [![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)
