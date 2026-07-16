@@ -1,14 +1,14 @@
-# Douglas Dhein
+# Hey, I'm Douglas Dhein
 
 I build modern web applications, combining well-organized code, responsive interfaces, APIs, and databases to create functional, well-structured solutions.
 
-## Tech stack
+## The Stack
 
 **Web & languages:** HTML5, CSS3, JavaScript, TypeScript, C# <br>
 **Front-end:** React, Next.js, Tailwind CSS <br>
 **Back-end:** Node.js, Express, .NET <br>
 **Database:** MongoDB <br>
-**Version Control:** Git, GitHub
+**Version control:** Git, GitHub
 
  ## Get in touch
 
