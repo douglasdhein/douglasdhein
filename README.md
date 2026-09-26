@@ -1,7 +1,7 @@
 # Hey, I'm Douglas Dhein
 
-A developer based in Rio Grande do Sul, Brazil
-Currently studying Systems Analysis and Development at Unisinos-RS
+A developer based in Rio Grande do Sul, Brazil <br>
+Currently studying Systems Analysis and Development at Unisinos-RS <br>
 Open to work opportunities!
 
 ## The Stack
