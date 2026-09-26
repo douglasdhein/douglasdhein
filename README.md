@@ -1,6 +1,8 @@
 # Hey, I'm Douglas Dhein
 
-I build modern web applications, combining well-organized code, responsive interfaces, APIs, and databases to create functional, well-structured solutions.
+A developer based in Rio Grande do Sul, Brazil
+Currently studying Systems Analysis and Development at Unisinos-RS
+Open to work opportunities!
 
 ## The Stack
 
