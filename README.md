@@ -15,5 +15,5 @@ Open to work opportunities!
 
  ## Get in touch
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-douglaswdhein%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white&labelColor=555555)](mailto:douglaswdhein@gmail.com) <br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-douglasdhein-black?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/douglasdhein/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-douglaswdhein%40gmail.com-black?style=flat-square&labelColor=555555)](mailto:douglaswdhein@gmail.com) <br>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-douglasdhein-black?style=flat-square&labelColor=555555)](https://www.linkedin.com/in/douglasdhein/)
