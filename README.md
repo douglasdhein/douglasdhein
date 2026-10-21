@@ -6,10 +6,11 @@ Open to work opportunities!
 
 ## The Stack
 
-**Web & languages:** HTML5, CSS3, JavaScript, TypeScript, C# <br>
+**Languages:** JavaScript, TypeScript, C# <br>
 **Front-end:** React, Next.js, Tailwind CSS <br>
-**Back-end:** Node.js, Express, .NET <br>
-**Database:** MongoDB <br>
+**Back-end:** Node.js, Express, .NET, ASP.NET Core, REST APIs <br>
+**Database:** PostgreSQL, MongoDB, Mongoose <br>
+**DevOps & Tools:** Docker, Postman, Swagger/OpenAPI <br>
 **Version control:** Git, GitHub
 
  ## Get in touch
